@@ -1,0 +1,6 @@
+{
+  "Name": "Generate_Yearly_Report_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Dispatcher Project",
+  "MainFile": "Main.xaml"
+}
