@@ -1,0 +1,6 @@
+{
+  "Name": "CalculateCreditHash2",
+  "ProjectType": "Process",
+  "Description": "Creating a hash for Wl5",
+  "MainFile": "Main.xaml"
+}
