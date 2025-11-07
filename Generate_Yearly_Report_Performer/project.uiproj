@@ -1,0 +1,6 @@
+{
+  "Name": "Generate_Yearly_Report_Performer",
+  "ProjectType": "Process",
+  "Description": "Processing all the WI4 Items in the Qrchestrator Queue",
+  "MainFile": "Main.xaml"
+}

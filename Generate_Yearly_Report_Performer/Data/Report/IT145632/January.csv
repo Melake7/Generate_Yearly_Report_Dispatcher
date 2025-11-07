@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+"738079,""Professional Services"",135552,27110.4,162662,CAD,2017-01-18"
+"463870,""Waste management services"",233938,46787.6,280726,USD,2017-01-23"
